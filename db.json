@@ -150,13 +150,10 @@
   "users": [
     {
       "id": 1,
-      "first-name": "Mahmoud",
-      "last-name": "Mohamed",
+      "name": "Mahmoud",
       "email": "engm9690@gmail.com",
-      "phone": "01201453941",
-      "your-message": "مرحبا بك ",
-      "count-azkar-saph": "0",
-      "count-azkar-masaa": "0"
+      "message":"مرحبا "
+ 
     }
   ],
   "azkar-spah": [
